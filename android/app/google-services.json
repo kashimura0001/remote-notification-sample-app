@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "790099188210",
+    "firebase_url": "https://remote-notification-sample-app.firebaseio.com",
+    "project_id": "remote-notification-sample-app",
+    "storage_bucket": "remote-notification-sample-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790099188210:android:ec0136629018b4eefb336b",
+        "android_client_info": {
+          "package_name": "com.remotenotificationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790099188210-p7f6tl47hs2dkvdo4ksj8717dmj84ise.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQv-d59aN_Qsm7fQtbOMV7kIMcguAxz2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790099188210-p7f6tl47hs2dkvdo4ksj8717dmj84ise.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
